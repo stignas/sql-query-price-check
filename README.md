@@ -1,4 +1,4 @@
-# sql-quer-price-check
+# sql-query-price-check
 
 SQL Query kainų tikrinimo ataskaitai paruošti.
 - Duomenis ima iš 3-jų skirtingų duomenų bazių lentelių: Items, Transactions, Replenishment.
